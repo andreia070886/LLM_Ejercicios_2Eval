@@ -1,0 +1,34 @@
+<xml version= "1.0" encoding="UTF-8">
+<ordenadores id="1">
+    <nombre>Asus 34-HB</nombre>
+    <CPUs>4</CPUs>
+    <RAM>4</RAM>
+    <Pantalla>15</Pantalla>
+    <Software>
+        <1>Antivirus</1>
+        <2>SO Microsoft</2>
+        <3>Office 360</3>
+    </Software>
+</ordenadores>
+<ordenadores id="2">
+    <nombre>Razor 578-H</nombre>
+    <CPUs>8</CPUs>
+    <RAM>8</RAM>
+    <Pantalla>16</Pantalla>
+    <Software>
+        <1>Antivirus</1>
+        <2>SO Linux</2>
+        <3>Libre Office</3>
+    </Software>
+</ordenadores>
+<ordenadores id="3">
+    <nombre>HP Pavilium 21s</nombre>
+    <CPUs>12</CPUs>
+    <RAM>16</RAM>
+    <Pantalla>17</Pantalla>
+    <Software>
+        <1>Antivirus</1>
+        <2>SO Ubuntu coret</2>
+        <3>Open Office</3>
+    </Software>
+</ordenadores>
